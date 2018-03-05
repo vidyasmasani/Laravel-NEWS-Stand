@@ -14,10 +14,3 @@
 	g. Run 'php artisan db:seed'
 3. Run Application
 	a. Run 'php artisan serve'
-4. Assumptions made and missing requirements that are not covered in the specifications
-	Features listed below has been added to the project
-
-	a. Added Tags, Categories options. We can include each news in particular category. Also tags can be assigned to each news.
-	b. Comments can be added for both public & registered user
-	c. We can see news within a specific category and with specific tags
-	d. About me & Contact me pages.
